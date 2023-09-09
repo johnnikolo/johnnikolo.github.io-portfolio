@@ -21,12 +21,12 @@ const illustration = {
 
 const greeting = {
   username: "Ioannis Nikolopoulos",
-  title: "Hi all, I'm Ioannis but you can call me John",
+  title: "Hi all, I'm John",
   subTitle: emoji(
     "A passionate Frontend Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs / JQuery / PHP / Wordpress and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1pXqQGZ4-KBCDdZwFNH-Hel3Dj0tJZHUS/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
